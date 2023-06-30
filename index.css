@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+.square{
+    width: 300px;
+    height: 300px;
+}
+
+.square_black{
+    background-color: #000;
+}
+
+.square_red{
+    background-color: #d31414;
+}
+
+.square_purple{
+    background-color: #2426b8;
+}
